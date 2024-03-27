@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4544a87.css",
+    "main.js": "/static/js/main.029816fd.js",
+    "static/js/453.9e0e5b7c.chunk.js": "/static/js/453.9e0e5b7c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/benz.jpg": "/static/media/benz.612cc67d7e06f151d36d.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/car.jpg": "/static/media/car.bf338d0c6f8be9f3a8c6.jpg",
+    "static/media/car9.jpg": "/static/media/car9.9fcfe63d065867593edd.jpg",
+    "static/media/car161.jpg": "/static/media/car161.8d546267bc68a91bfee3.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/car7.jpg": "/static/media/car7.66e12d6e351b8584858d.jpg",
+    "static/media/car191.jpg": "/static/media/car191.c3b98623541ddbec0285.jpg",
+    "static/media/car13.jpg": "/static/media/car13.79b7c923601bb5d5c230.jpg",
+    "static/media/car61.jpg": "/static/media/car61.7c8dd967b52e6860aa34.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/tyler-clemmensen-4gSavS9pe1s-unsplash.jpg": "/static/media/tyler-clemmensen-4gSavS9pe1s-unsplash.4a085eeeff9435c70ca7.jpg",
+    "static/media/car211.jpg": "/static/media/car211.677d8991959beec95928.jpg",
+    "static/media/car141.jpg": "/static/media/car141.ad7fcb771e5ba154b503.jpg",
+    "static/media/car101.jpg": "/static/media/car101.b43a5d6e2ad49b131bf1.jpg",
+    "static/media/car5.jpg": "/static/media/car5.663a81126e50e72d4113.jpg",
+    "index.html": "/index.html",
+    "main.b4544a87.css.map": "/static/css/main.b4544a87.css.map",
+    "main.029816fd.js.map": "/static/js/main.029816fd.js.map",
+    "453.9e0e5b7c.chunk.js.map": "/static/js/453.9e0e5b7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4544a87.css",
+    "static/js/main.029816fd.js"
+  ]
+}
